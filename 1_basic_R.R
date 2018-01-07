@@ -1,8 +1,4 @@
 #Anuja Joshi
-#IST 687
-#Homework 1
-#Due date- January 25, 2017
-#Submitted Date - January 22, 2017
 
 #creating vector
 height <- c(59,60,61,58,67,72,70)
